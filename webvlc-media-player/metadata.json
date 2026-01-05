@@ -1,0 +1,5 @@
+{
+  "name": "WebVLC Media Player",
+  "description": "A professional, browser-based media player inspired by VLC. Features local file playback, cloud library management, and playlist organization in a secure, privacy-focused environment.",
+  "requestFramePermissions": []
+}
